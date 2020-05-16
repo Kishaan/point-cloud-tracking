@@ -1,4 +1,4 @@
-# software-development-project
+# Software Development Project (Computer Vision)
 
 Preliminary tracking for pointcloud data of objects on a rotating table. 
 
